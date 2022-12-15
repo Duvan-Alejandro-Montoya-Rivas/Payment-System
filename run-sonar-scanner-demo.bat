@@ -1,0 +1,1 @@
+sonar-scanner.bat -D"sonar.projectKey=PaymenSystem1" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.login=sqp_4b9bdd33753b74d787255d92cbd10e339cce2d0d" -D"sonar.java.binaries=./target/classes"
